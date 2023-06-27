@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.que_dijo_app",
+    "sha256_cert_fingerprints":
+    ["8C:25:A1:76:F0:04:90:20:76:FF:D9:A5:68:ED:21:25:7D:5C:AA:F5:CC:EA:61:DB:8C:AC:39:99:41:1F:97:1B"]
+  }
+}]
+
