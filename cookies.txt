@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.quedijo.nl	TRUE	/	FALSE	1999999999	__cf_bm	AX9zj_S89wdOBj_LWw4H8gS2k92OFLomTs0L4YAuEvU-1688606332-0-AU0bkYyEWFvFiHABLRku2Ac7cZvxzr5EPIl38xwegTTX3tsUS0R+S9jAP3Cuk4Ng3MvgN5HB+N4gpXiMSTAFHh4=
+.quedijo.nl	TRUE	/	FALSE	1999999999	__cfruid	cc952b14302941fcb9ac08319d45aa50c75088c4-1688606332
+quedijo.nl	TRUE	/	FALSE	1999999999	SameSite	None
+
